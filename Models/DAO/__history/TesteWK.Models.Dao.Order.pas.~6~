@@ -1,0 +1,26 @@
+unit TesteWK.Models.Dao.Order;
+
+interface
+
+uses System.Generics.Collections;
+
+type
+
+    TDaoOrder = class
+
+    private
+
+    public
+        property Code: Integer;
+        property DataEmissao: TDate;
+        property Amount: Currency;
+
+        function Buscar(Avalor: string): TDaoOrder;  virtual; abstract;
+        function Gravar: TDaoOrder;     virtual;   abstract;
+        function Deletar: TDaoOrder;     virtual;  abstract;
+        function Carregar(ACode: Integer):   TDaoOrder;   virtual; abstract;
+    end;
+
+implementation
+
+end.

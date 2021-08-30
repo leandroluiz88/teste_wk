@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/24 17:34:12.000.049,=C:\Users\leandro.cunha\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2021/08/24 17:55:06.000.243,C:\Users\leandro.cunha\Documents\Embarcadero\Studio\Projects\Unit6.pas=C:\ProjetosParticulares\WK System\ULanVenda.pas</Transaction>
+    <Transaction>2021/08/24 17:55:06.000.243,C:\Users\leandro.cunha\Documents\Embarcadero\Studio\Projects\Unit6.dfm=C:\ProjetosParticulares\WK System\ULanVenda.dfm</Transaction>
+    <Transaction>2021/08/24 17:55:24.000.506,C:\Users\leandro.cunha\Documents\Embarcadero\Studio\Projects\Project5.dproj=C:\ProjetosParticulares\WK System\TesteWk.dproj</Transaction>
+    <Transaction>2021/08/24 18:44:38.000.130,=C:\ProjetosParticulares\WK System\Unit1.pas</Transaction>
+    <Transaction>2021/08/24 18:46:45.000.462,C:\ProjetosParticulares\WK System\Unit1.dfm=C:\ProjetosParticulares\WK System\DataBase\TesteWK.DataBase.DataModule.dfm</Transaction>
+    <Transaction>2021/08/24 18:46:45.000.462,C:\ProjetosParticulares\WK System\Unit1.pas=C:\ProjetosParticulares\WK System\DataBase\TesteWK.DataBase.DataModule.pas</Transaction>
+    <Transaction>2021/08/25 12:31:43.000.048,=C:\ProjetosParticulares\WK System\Helpers\TesteWK.Helpers.Funcoes.pas</Transaction>
+    <Transaction>2021/08/25 12:31:55.000.899,=C:\ProjetosParticulares\WK System\View\TesteWK.View.Busca.pas</Transaction>
+    <Transaction>2021/08/25 12:47:19.000.080,C:\ProjetosParticulares\WK System\View\TesteWK.View.Busca.pas=</Transaction>
+    <Transaction>2021/08/25 12:48:06.000.687,C:\ProjetosParticulares\WK System\ULanVenda.dfm=C:\ProjetosParticulares\WK System\View\TesteWK.View.Principal.dfm</Transaction>
+    <Transaction>2021/08/25 12:48:06.000.687,C:\ProjetosParticulares\WK System\ULanVenda.pas=C:\ProjetosParticulares\WK System\View\TesteWK.View.Principal.pas</Transaction>
+    <Transaction>2021/08/25 12:58:10.000.086,=C:\ProjetosParticulares\WK System\Unit1.pas</Transaction>
+    <Transaction>2021/08/25 12:58:29.000.480,C:\ProjetosParticulares\WK System\Unit1.dfm=C:\ProjetosParticulares\WK System\View\TesteWK.View.Busca.dfm</Transaction>
+    <Transaction>2021/08/25 12:58:29.000.480,C:\ProjetosParticulares\WK System\Unit1.pas=C:\ProjetosParticulares\WK System\View\TesteWK.View.Busca.pas</Transaction>
+    <Transaction>2021/08/25 15:01:04.000.222,=C:\ProjetosParticulares\WK System\Unit1.pas</Transaction>
+    <Transaction>2021/08/25 15:02:02.000.953,C:\ProjetosParticulares\WK System\Unit1.pas=C:\ProjetosParticulares\WK System\Models\Interfaces\TesteWK.Models.Busca.Interfaces.pas</Transaction>
+    <Transaction>2021/08/25 15:51:08.000.062,=C:\ProjetosParticulares\WK System\Unit1.pas</Transaction>
+    <Transaction>2021/08/25 15:52:54.000.989,C:\ProjetosParticulares\WK System\Models\Interfaces\TesteWK.Models.Dao.Interfaces.pas=C:\ProjetosParticulares\WK System\Models\Interfaces\TesteWK.Models.Busca.Interfaces.pas</Transaction>
+    <Transaction>2021/08/25 15:53:21.000.198,=C:\ProjetosParticulares\WK System\Unit2.pas</Transaction>
+    <Transaction>2021/08/25 15:53:46.000.702,C:\ProjetosParticulares\WK System\Models\TesteWK.Models.Customer.pas=C:\ProjetosParticulares\WK System\Unit2.pas</Transaction>
+    <Transaction>2021/08/25 15:56:59.000.968,=C:\ProjetosParticulares\WK System\Unit2.pas</Transaction>
+    <Transaction>2021/08/25 15:57:53.000.492,C:\ProjetosParticulares\WK System\Models\DAO\TesteWK.Models.Dao.Customer.pas=C:\ProjetosParticulares\WK System\Unit2.pas</Transaction>
+    <Transaction>2021/08/25 16:56:54.000.088,=C:\ProjetosParticulares\WK System\Unit1.pas</Transaction>
+    <Transaction>2021/08/25 16:57:11.000.496,C:\ProjetosParticulares\WK System\Controllers\TesteWk.Controllers.Customer.pas=C:\ProjetosParticulares\WK System\Unit1.pas</Transaction>
+    <Transaction>2021/08/25 17:48:27.000.171,=C:\ProjetosParticulares\WK System\Unit1.pas</Transaction>
+    <Transaction>2021/08/25 17:48:41.000.930,C:\ProjetosParticulares\WK System\Unit1.pas=C:\ProjetosParticulares\WK System\Models\DAO\TesteWK.Models.Dao.Product.pas</Transaction>
+    <Transaction>2021/08/25 17:48:52.000.194,=C:\ProjetosParticulares\WK System\Unit1.pas</Transaction>
+    <Transaction>2021/08/25 17:49:09.000.999,C:\ProjetosParticulares\WK System\Unit1.pas=C:\ProjetosParticulares\WK System\Models\DAO\TesteWK.Models.Dao.Order.pas</Transaction>
+    <Transaction>2021/08/25 17:49:14.000.303,=C:\ProjetosParticulares\WK System\Unit1.pas</Transaction>
+    <Transaction>2021/08/25 17:49:29.000.580,C:\ProjetosParticulares\WK System\Unit1.pas=C:\ProjetosParticulares\WK System\Models\DAO\TesteWK.Models.Dao.OrderItems.pas</Transaction>
+    <Transaction>2021/08/25 17:53:21.000.785,=C:\ProjetosParticulares\WK System\Unit1.pas</Transaction>
+    <Transaction>2021/08/25 17:53:48.000.779,C:\ProjetosParticulares\WK System\Unit1.pas=C:\ProjetosParticulares\WK System\Models\TesteWK.Models.Product.pas</Transaction>
+    <Transaction>2021/08/25 18:08:10.000.056,=C:\ProjetosParticulares\WK System\Unit1.pas</Transaction>
+    <Transaction>2021/08/25 18:08:30.000.873,C:\ProjetosParticulares\WK System\Unit1.pas=C:\ProjetosParticulares\WK System\Controllers\TesteWk.Controllers.Product.pas</Transaction>
+    <Transaction>2021/08/25 20:18:24.000.403,C:\ProjetosParticulares\WK System\Models\DAO\TesteWK.Models.Dao.OrderItems.pas=C:\ProjetosParticulares\WK System\Models\DAO\TesteWK.Models.Dao.OrderItem.pas</Transaction>
+    <Transaction>2021/08/25 20:28:38.000.586,=C:\ProjetosParticulares\WK System\Unit1.pas</Transaction>
+    <Transaction>2021/08/25 20:28:59.000.705,C:\ProjetosParticulares\WK System\Unit1.pas=C:\ProjetosParticulares\WK System\Models\TesteWK.Models.Order.pas</Transaction>
+    <Transaction>2021/08/26 14:20:37.000.399,=C:\ProjetosParticulares\WK System\Unit1.pas</Transaction>
+    <Transaction>2021/08/26 14:20:53.000.824,C:\ProjetosParticulares\WK System\Unit1.pas=C:\ProjetosParticulares\WK System\Controllers\TesteWk.Controllers.Order.pas</Transaction>
+  </Transactions>
+</BorlandProject>

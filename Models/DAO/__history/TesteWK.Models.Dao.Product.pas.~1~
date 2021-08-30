@@ -1,0 +1,7 @@
+unit TesteWK.Models.Dao.Product;
+
+interface
+
+implementation
+
+end.

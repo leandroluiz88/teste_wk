@@ -1,0 +1,52 @@
+unit TesteWK.Models.Dao.Customer;
+
+interface
+
+
+type
+
+    TDaoCustomer = class
+    private
+    FName: String;
+    FCode: Integer;
+    FState: String;
+    FCity: string;
+    procedure SetCity(const Value: string);
+    procedure SetCode(const Value: Integer);
+    procedure SetName(const Value: String);
+    procedure SetState(const Value: String);
+    public
+        property Code: Integer read FCode write SetCode;
+        property Name: String read FName write SetName;
+        property City: string read FCity write SetCity;
+        property State: String read FState write SetState;
+        function Buscar(Avalor: string): TDaoCustomer;  virtual; abstract;
+        function Gravar: TDaoCustomer;     virtual;   abstract;
+        function Deletar: TDaoCustomer;     virtual;  abstract;
+    end;
+
+implementation
+
+{ TDaoCustomer }
+
+procedure TDaoCustomer.SetCity(const Value: string);
+begin
+  FCity := Value;
+end;
+
+procedure TDaoCustomer.SetCode(const Value: Integer);
+begin
+  FCode := Value;
+end;
+
+procedure TDaoCustomer.SetName(const Value: String);
+begin
+  FName := Value;
+end;
+
+procedure TDaoCustomer.SetState(const Value: String);
+begin
+  FState := Value;
+end;
+
+end.

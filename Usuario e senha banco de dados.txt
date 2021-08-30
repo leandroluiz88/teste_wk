@@ -1,0 +1,11 @@
+//usuario e senha banco de dados
+Database=teste_wk
+User_Name=userwk
+Password=wk.2021
+Server=10.67.0.11
+Port=3302
+DriverID=MySQL
+
+//Como adicionar o usuario ao banco de dados
+GRANT ALL ON teste_wk.* TO 'userwk'@'%' IDENTIFIED BY 'wk.2021';
+

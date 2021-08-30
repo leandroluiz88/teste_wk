@@ -1,0 +1,43 @@
+unit TesteWK.Models.Dao.Product;
+
+interface
+
+
+type
+
+    TDaoProduct = class
+    private
+    FName: String;
+    FCode: Integer;
+
+    FCity: string;
+    FFederationState: string;
+
+    procedure SetCity(const Value: string);
+    procedure SetCode(const Value: Integer);
+    procedure SetName(const Value: String);
+    procedure SetFederationState(const Value: string);
+
+
+    public
+        property Code: Integer read FCode write SetCode;
+        property Name: String read FName write SetName;
+        property City: string read FCity write SetCity;
+        property FederationState: string read FFederationState write SetFederationState;
+        function Buscar(Avalor: string): TDaoProduct;  virtual; abstract;
+        function Gravar: TDaoProduct;     virtual;   abstract;
+        function Deletar: TDaoProduct;     virtual;  abstract;
+        function Carregar(ACode: Integer):   TDaoProduct;   virtual; abstract;
+    end;
+
+implementation
+
+
+
+
+
+
+
+end.
+
+
